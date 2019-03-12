@@ -21,39 +21,41 @@ Whether it's joining the company or joining a project. Each team should ensure t
 
 ### The Boy Scout Rule
 
-```I should strive to leave things in a better state than how I found them.```
+```
+I should strive to leave things in a better state than how I found them.
+```
 Well Duh! But this should be our mantra whenever we put a Pull Request in! 
 
 #### Development Pull Requests
 
-Slipping into a code vent. But any time we submit a request to enhance code, we should know that the code will build and has been tested to ensure that we are not breaking the Boy Scout Rule!
+Slipping into a code vent, but any time we submit a request to enhance the project, we should know that the solution will build and has been tested sufficiently to ensure that we are not breaking the Boy Scout Rule!
 
 ### Testability
 
-If it can't be tested then we are doing something wrong! Our aim is not only to ensure somethings works but to ensure that anyone entering 'our place' can run scenarios and if they make changes, have confidence in the system.
+If it can't be tested then we are doing something wrong! Our aim is not only to ensure somethings works but to ensure that anyone handling out solution can run scenarios and if they make changes, have confidence that the system still works.
 
 Every project should aim to provide scaffolding for Unit / Integration / e2e tests, where possible.
 
-### Responsibility
+#### Responsibility
 
 It is every members of the teams responsibility to ensure things are tested! An automated test engineer can provide scaffolding and frameworks but they alone should not be contributing to that code.
 
 ### Aim to be Agnostic
 
-Controversial I know! But wherever possible, we should try to find solutions that don't tie us to a vender, unless the benefits of doing so outweigh the advantages. By its very definition tying yourself to something reduces your flexibility and potential advantages available to you.
+Controversial I know! But wherever possible, we should try to find solutions that don't tie us to a vender, unless the benefits of doing so outweigh the agnostic advantages. By its very definition tying yourself to something reduces your flexibility and potential available to you.
 
 ### Scripted & Automate
 
 ''Dev Ops'' is dead because it was never a thing in the first place. Every engineer has always found ways to automate and to script out menial tasks.
-Any solution should provide a simple automated way to build, test and publish itself. Engineering is about making engines to artfully bring something about.
+Any solution should provide simple automated ways to build, test and publish itself. Engineering is about making engines to "artfully bring something about".
 
 ### Create an Organization that works
 
-The organization's role is to help the teams work to the best of it's ability and not intentially throw roadblocks in the path of success
+The organization's role is to help the teams work to the best of it's ability and not throw roadblocks in the path of success
 
 #### Provide Adequate Equipment
 
-No-one would expect a builder to build a house without the proper equipment, so why expect an engineer to build you a solution if you don't provide them with decent tools. Invest in the team and help them make something beautiful!
+No-one would expect a builder to build a house without the proper equipment, so why expect an engineer to build you a solution if you don't provide them with thew correct tools? Invest in the team and help them make something beautiful!
 
 #### Outdated & Off-system Environments
 
@@ -61,9 +63,11 @@ If anyone has to find workarounds or use systems that are out of date, then ther
 
 #### "They won't understand" / "They aren't ready for it"
 
-Help them understand. Help them be ready for it. 
+Help them understand. Help them be ready for it.
 
-``` Fortune favours the bold ```
+``` 
+Fortune favours the bold 
+```
 
 An organization is successful by being creative, taking calculated risks and adapting to change.
 
@@ -74,7 +78,7 @@ Creative people need the ability and freedom to drive new things. Look at Google
 
 ### Document Decisions
 
-Every solution we create has compromise or reasons things are done, yet if we don't tell people why they can never understand. 
+Every solution we create has compromise or reasons things are done, yet if we don't tell people why they can never understand our decisions.
 
 ### API's  
 
@@ -82,7 +86,7 @@ Should be discoverable and documented. Hiding away useful features and functions
 
 ### Try things!
 
-Every successful business started with an entrepreneur. It doesn't matter how big or small your project is, if any opportunity presents itself to create advancement or innovation we should be obliged to explore it. Minimise risk by using smaller projects.
+Every successful business started with an entrepreneur. It doesn't matter how big or small your project is, if any opportunity presents itself to create advancement or innovation we should be obliged to explore it. Minimize risk by experimenting in smaller projects.
 
 ### Contribute to the community
 
