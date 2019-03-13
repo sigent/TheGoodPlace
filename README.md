@@ -1,6 +1,6 @@
 # The Good Place
 
-Based on current and past experience, this is a brain dump of what I think a development project needs to put it in the Good Place.
+Based on current and past experience, this is a brain dump of what I think a development project needs to put it in the "Good Place".
 
 ## Disclaimer
 
@@ -12,12 +12,12 @@ This is a personal opinion and as such is open for discussion. In the end my pri
 
 This is the starting point for any project. 
 * What is this project all about? 
-* How to I get this thing to work?
+* How do I get this thing to work?
 * ''Why'' do I want to be involved?
 
 ### On-boarding
 
-Whether it's joining the company or joining a project. Each team should ensure that they have a proper on-boarding guide. The last person to join the project should always ensure that this is up to date and easy to follow.
+Whether it's joining the company or joining a project, each team should ensure that they have a proper on-boarding guide. The last person to join the project should always ensure that this is up-to date and easy to follow.
 
 ### The Boy Scout Rule
 
@@ -38,24 +38,24 @@ Every project should aim to provide scaffolding for Unit / Integration / e2e tes
 
 #### Responsibility
 
-It is every members of the teams responsibility to ensure things are tested! An automated test engineer can provide scaffolding and frameworks but they should not be contributing solely to that code base.
+It is every team member's responsibility to ensure things are tested! An automated test engineer can provide scaffolding and frameworks but they should not be contributing solely to that code base.
 
 ### Aim to be Agnostic
 
-Controversial I know! But wherever possible, we should try to find solutions that don't tie us to a vender, unless the benefits of doing so outweigh the agnostic advantages. By its very definition tying yourself to something reduces your flexibility and potential available to you.
+Controversial I know! But wherever possible, we should try to find solutions that don't tie us to a vender, unless the benefits of doing so outweigh the agnostic advantages. By its very definition, tying yourself to something reduces your flexibility and potential available to you.
 
 ### Scripted & Automate
 
 ''Dev Ops'' is dead because it was never a thing in the first place. Every engineer has always found ways to automate and to script out menial tasks.
-Any solution should provide simple automated ways to build, test and publish itself. Engineering is about making engines to "artfully bring something about".
+Any solution should provide simple, automated ways to build, test and publish itself. Engineering is about making engines to "artfully bring something about".
 
 ### Create an Organization that works
 
-The organization's role is to help the teams work to the best of it's ability and not throw roadblocks in the path of success
+The organization's role is to help teams and team members work to the best of their ability and not throw roadblocks in the path of success.
 
 #### Provide Adequate Equipment
 
-No-one would expect a builder to build a house without the proper equipment, so why expect an engineer to build you a solution if you don't provide them with thew correct tools? Invest in the team and help them make something beautiful!
+No-one would expect a builder to build a house without the proper equipment, so why expect an engineer to build you a solution if you don't provide them with the correct tools? Invest in the team and help them make something beautiful!
 
 #### Outdated & Off-system Environments
 
@@ -78,7 +78,7 @@ Creative people need the ability and freedom to drive new things. Look at Google
 
 ### Document Decisions
 
-Every solution we create has compromise or reasons things are done, yet if we don't tell people why they can never understand our decisions.
+Every solution we create has compromise or reasons things are done, yet if we don't tell people why, they can never understand our decisions.
 
 ### API's  
 
@@ -98,7 +98,7 @@ Internal projects can cut corners and afford to not follow best practice. Openin
 
 ### Establish Standard and Cross-cutting concerns
 
-As part of On-boarding any new team member, there should be clear signposting to the standards to adhere too and where any cross cutting concerns can be found.
+As part of on-boarding any new team member, there should be clear signposting to the standards to adhere too and where any cross-cutting concerns can be found.
 
 ### Resources and information sharing
 
@@ -110,7 +110,7 @@ Read the [agile manifesto](https://agilemanifesto.org/) and look at how it can b
 
 ### Ask dumb questions! 
 
-We should create an environment where people are encouraged to speak up. If you don't know what an acronym means then ask
+We should create an environment where people are encouraged to speak up. If you don't know what an acronym means then ask!
 
 ### "It takes a village"
 
