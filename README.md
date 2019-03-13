@@ -32,13 +32,13 @@ Slipping into a code vent, but any time we submit a request to enhance the proje
 
 ### Testability
 
-If it can't be tested then we are doing something wrong! Our aim is not only to ensure somethings works but to ensure that anyone handling out solution can run scenarios and if they make changes, have confidence that the system still works.
+If it can't be tested then we are doing something wrong! Our aim is not only to ensure somethings works but to ensure that anyone handling our solution can run scenarios and if they make changes, have confidence that the system still works.
 
 Every project should aim to provide scaffolding for Unit / Integration / e2e tests, where possible.
 
 #### Responsibility
 
-It is every members of the teams responsibility to ensure things are tested! An automated test engineer can provide scaffolding and frameworks but they alone should not be contributing to that code.
+It is every members of the teams responsibility to ensure things are tested! An automated test engineer can provide scaffolding and frameworks but they should not be contributing solely to that code base.
 
 ### Aim to be Agnostic
 
@@ -66,7 +66,7 @@ If anyone has to find workarounds or use systems that are out of date, then ther
 Help them understand. Help them be ready for it.
 
 ``` 
-Fortune favours the bold 
+Fortune favours the bold
 ```
 
 An organization is successful by being creative, taking calculated risks and adapting to change.
