@@ -76,6 +76,10 @@ An organization is successful by being creative, taking calculated risks and ada
 As an organization you hired these people to do a job. If you can't trust them to do this correctly, why did you hire them in the first place?
 Creative people need the ability and freedom to drive new things. Look at Google and how many new product ideas have come from the trust in their engineers.
 
+#### Risk
+
+Risk should be always be a balance. Weigh up the potentials of doing something vs not doing something / having something vs not having it. Can adequate safe guards be put in place that don't cause a bigger detriment than the potential risk?  
+
 ### Document Decisions
 
 Every solution we create has compromise or reasons things are done, yet if we don't tell people why, they can never understand our decisions.
